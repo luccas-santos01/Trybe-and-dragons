@@ -1,4 +1,6 @@
-interface SimpleFighter {
+import BaseFighter from './BaseFighter';
+
+interface SimpleFighter extends BaseFighter {
   lifePoints: number;
   strength: number;
 

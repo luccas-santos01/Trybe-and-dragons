@@ -1,6 +1,7 @@
 import Energy from '../Energy';
+import BaseFighter from './BaseFighter';
 
-interface Fighter {
+interface Fighter extends BaseFighter {
   lifePoints: number,
   strength: number,
   defense: number,
