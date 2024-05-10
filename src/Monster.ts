@@ -1,7 +1,8 @@
 import { SimpleFighter } from './Fighter';
 import BaseFighter from './Fighter/BaseFighter';
+import Combatant from './Fighter/Combatant';
 
-class Monster implements SimpleFighter {
+class Monster implements SimpleFighter, Combatant {
   private _lifePoints: number;
   private _strength: number;
 
