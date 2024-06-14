@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório foi criado para simular características de um jogo de RPG (Role-Playing Game). Nele, desenvolvemos um sistema que permite a criação de classes de criaturas, batalhas entre criaturas e jogadores, e duelos entre jogadores.
+Este repositório foi criado para simular características de um jogo de RPG (Role-Playing Game). Nele, desenvolvi um sistema que permite a criação de classes de criaturas, batalhas entre criaturas e jogadores, e duelos entre jogadores.
 
 ## Características
 
