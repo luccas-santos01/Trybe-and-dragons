@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Repositório do Jogo RPG
+
+## Introdução
+
+Este repositório foi criado para simular características de um jogo de RPG (Role-Playing Game). Nele, desenvolvemos um sistema que permite a criação de classes de criaturas, batalhas entre criaturas e jogadores, e duelos entre jogadores.
+
+## Características
+
+- Classes de Criaturas: Implementação de várias classes de criaturas, cada uma com habilidades e características próprias.
+
+- Sistema de Batalha: Um sistema de batalha que permite confrontos entre criaturas, jogadores contra criaturas, e duelos entre jogadores.
+
+- Imersão: Foco na criação de uma experiência autêntica de RPG.
+
+Este projeto é uma homenagem ao universo dos jogos de RPG, buscando recriar, de maneira simplificada um pouco da complexidade desse mundo.
